@@ -2,7 +2,7 @@
 #### I am senior front-end developer
 ![I am senior front-end developer](./assets/banner.jpg)
 
-I'm focusing on front-end techs and something else about Homelabs: not just FE tech, but Linux, Shell Script, Docker, Rust, and so on...
+I'm focusing on front-end techs and something else about Homelabs: not just FE techs, but Linux, Shell Script, Docker, Rust, and so on...
 
 Skills: `TypeScript` / `JS` / `HTML` / `CSS` / `VueJS` / `ReactJS` / `Docker` / `Shell Script` / `Rust`
 
